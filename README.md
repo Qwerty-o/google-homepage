@@ -4,7 +4,7 @@
 
 <head>
   li {
-  display; inline;
+  display: inline;
   }
 </head>
 
